@@ -1,3 +1,3 @@
-Python Student Score Tracker for ITCS103 quiz
+Python Student Score Tracker for ITCS103 quiz (finished by May 1, 25; 8:18pm)
 
 by: Camunag, Dishiela Ingrid M.
